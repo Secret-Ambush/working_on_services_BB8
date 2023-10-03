@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/github/languages/top/Secret-Ambush/voice_bot?style&color=5D6D7E" alt="GitHub top language" />
 <img src="https://img.shields.io/github/languages/code-size/Secret-Ambush/voice_bot?style&color=5D6D7E" alt="GitHub code size in bytes" />
 <img src="https://img.shields.io/github/commit-activity/m/Secret-Ambush/voice_bot?style&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/license/Secret-Ambush/voice_bot?style&color=5D6D7E" alt="GitHub license" />
 </p>
 <img src="https://img.shields.io/github/languages/top/Secret-Ambush/working_on_services_BB8?style&color=5D6D7E" alt="GitHub top language" />
 <img src="https://img.shields.io/github/languages/code-size/Secret-Ambush/working_on_services_BB8?style&color=5D6D7E" alt="GitHub code size in bytes" />
