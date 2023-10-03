@@ -18,9 +18,7 @@
 ---
 
 ## 📖 Table of Contents
-- [📖 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
-- [📦 Features](#-features)
 - [📂 Repository Structure](#-repository-structure)
 - [⚙️ Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
@@ -32,13 +30,8 @@
 
 ## 📍 Overview
 
-HTTPStatus Exception: 429
-
----
-
-## 📦 Features
-
-HTTPStatus Exception: 429
+1) Service to move bb8 in a square
+2) Introduction to client, server nodes and corresponding launch files
 
 ---
 
