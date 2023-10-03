@@ -115,13 +115,7 @@ HTTPStatus Exception: 429
 
 ***Dependencies***
 
-Please ensure you have the following dependencies installed on your system:
-
-`- ℹ️ Dependency 1`
-
-`- ℹ️ Dependency 2`
-
-`- ℹ️ ...`
+Please ensure you are working in a catkin_ws
 
 ### 🔧 Installation
 
