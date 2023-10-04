@@ -1,4 +1,4 @@
 float64 side
-int32 repetitions
+int32 repetitions  #number of times bot moves
 ---
 bool success
